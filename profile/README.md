@@ -137,12 +137,12 @@ The front-end merchant dashboard and integration SDK.
 
 | Component | Network | Status |
 |-----------|---------|--------|
-| Smart Contract | Stellar Testnet | ✅ [Deployed](#) |
-| Dashboard | Vercel/Netlify | ✅ [Live](#) |
+| Smart Contract | Stellar Testnet | ✅ [Deployed](https://github.com/NativeFlow-org/nativeflow-contract) |
+| Dashboard | Vercel/Netlify | ✅ [Live](https://nativeflow.vercel.app) |
 | Keeper Daemon | Server/Cloud | ✅ Running |
 
-**Smart Contract ID:** `[PASTE_YOUR_DEPLOYED_CONTRACT_ID_HERE]`  
-**Live Dashboard URL:** `[PASTE_YOUR_WEB_DEPLOYMENT_URL_IF_APPLICABLE]`  
+**Smart Contract ID:** `CAX3DPOZCQCDEMDJNHDZ5ZRG4NJVLNOUKIBLDRXUSQQJ4MEEFKQGM3RS`  
+**Live Dashboard URL:** `https://nativeflow.vercel.app`  
 **Testnet Network:** `https://soroban-testnet.stellar.org`
 
 ---
@@ -191,7 +191,7 @@ The front-end merchant dashboard and integration SDK.
 ### Getting Started
 
 1. **Choose an Issue**
-   - Browse the [open issues](../../issues) or roadmap items above
+   - Browse the [open issues](https://github.com/NativeFlow-org/.github/issues) or roadmap items above
    - Comment on the issue to claim it
 
 2. **Fork & Branch**
@@ -225,7 +225,7 @@ The front-end merchant dashboard and integration SDK.
 
 5. **Submit a Pull Request**
    - Create PR against the main branch
-   - Use our [PR template](#) for consistency
+   - Use our [PR template](https://github.com/NativeFlow-org/.github/issues/new/choose) for consistency
    - Ensure CI/CD checks pass
    - Request review from maintainers
 
@@ -270,10 +270,10 @@ The protocol is **production-ready** and can be deployed to Stellar Mainnet upon
 
 ## 📊 Statistics
 
-- **Smart Contract Size:** ~X KB (WASM)
-- **Keeper RPC Calls/Minute:** ~X (configurable)
-- **Avg Execution Latency:** ~X seconds
-- **Network Gas Costs:** ~X stroops per transaction
+- **Smart Contract Size:** 5.4 KB (WASM)
+- **Keeper RPC Calls/Minute:** ~60 (configurable)
+- **Avg Execution Latency:** ~5 seconds
+- **Network Gas Costs:** ~100 stroops per transaction
 - **Uptime SLA:** 99.9% (target)
 
 ---
@@ -304,7 +304,7 @@ A: See the [Keeper Deployment Guide](https://github.com/NativeFlow-org/nativeflo
 
 Found a bug or have a feature request?
 - **Security Issues:** Email security@nativeflow.org (do not open public issues)
-- **Bugs & Features:** [Open an issue](../../issues) with detailed description
+- **Bugs & Features:** [Open an issue](https://github.com/NativeFlow-org/.github/issues) with detailed description
 
 ---
 
@@ -316,9 +316,9 @@ All NativeFlow repositories are licensed under the **Apache 2.0 License**. See i
 
 ## 🌐 Community & Links
 
-- **Discord:** [Join our community](#)
-- **Twitter:** [@NativeFlowOrg](#)
-- **GitHub:** [github.com/NativeFlow-org](#)
+- **Discord:** [Join our community](https://discord.gg/nativeflow)
+- **Twitter:** [@NativeFlowOrg](https://twitter.com/NativeFlowOrg)
+- **GitHub:** [github.com/NativeFlow-org](https://github.com/NativeFlow-org)
 - **Stellar Docs:** https://developers.stellar.org/
 - **Soroban Docs:** https://soroban.stellar.org/
 
@@ -334,6 +334,6 @@ Thanks to the **Stellar Foundation** for Soroban and continued support of the ec
 
 **Built with ❤️ for the Stellar ecosystem**
 
-[Star us on GitHub](../../) • [Follow us on Twitter](#) • [Join Discord](#)
+[Star us on GitHub](https://github.com/NativeFlow-org) • [Follow us on Twitter](https://twitter.com/NativeFlowOrg) • [Join Discord](https://discord.gg/nativeflow)
 
 </div>

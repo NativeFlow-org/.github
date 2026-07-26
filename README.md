@@ -167,7 +167,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 - **Bug Reports:** [Open an issue](https://github.com/NativeFlow-org/.github/issues)
 - **Feature Requests:** [Discussions](https://github.com/orgs/NativeFlow-org/discussions)
 - **Security Issues:** Email security@nativeflow.org
-- **Questions?** Join our [Discord](#) or [Twitter](#)
+- **Questions?** Join our [Discord](https://discord.gg/nativeflow) or [Twitter](https://twitter.com/NativeFlowOrg)
 
 ---
 
