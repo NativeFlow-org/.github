@@ -104,8 +104,8 @@ Front-end dashboard and integration SDK for merchants.
 - **[Organization Profile](./profile/README.md)** – Full ecosystem overview & architecture
 - **[Contributing Guide](./CONTRIBUTING.md)** – Contribution workflow, code standards, PR process
 - **[Architecture Deep-Dive](./architecture.md)** – System design, data flows, security considerations
-- **[Deployment Guide](./DEPLOYMENT.md)** – Testnet & Mainnet deployment procedures
-- **[FAQ](./FAQ.md)** – Common questions about the protocol
+- **[Deployment Guide](https://github.com/NativeFlow-org/nativeflow-contract#deployment)** – Testnet & Mainnet deployment procedures
+- **[FAQ](./profile/README.md#faq)** – Common questions about the protocol
 
 ---
 
@@ -164,8 +164,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ## 🐛 Support & Issues
 
-- **Bug Reports:** [Open an issue](../../issues)
-- **Feature Requests:** [Discussions](../../discussions)
+- **Bug Reports:** [Open an issue](https://github.com/NativeFlow-org/.github/issues)
+- **Feature Requests:** [Discussions](https://github.com/orgs/NativeFlow-org/discussions)
 - **Security Issues:** Email security@nativeflow.org
 - **Questions?** Join our [Discord](#) or [Twitter](#)
 
