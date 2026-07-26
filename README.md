@@ -105,7 +105,7 @@ Front-end dashboard and integration SDK for merchants.
 - **[Contributing Guide](./CONTRIBUTING.md)** – Contribution workflow, code standards, PR process
 - **[Architecture Deep-Dive](./architecture.md)** – System design, data flows, security considerations
 - **[Deployment Guide](https://github.com/NativeFlow-org/nativeflow-contract#deployment)** – Testnet & Mainnet deployment procedures
-- **[FAQ](./profile/README.md#faq)** – Common questions about the protocol
+- **[FAQ](./profile/README.md)** – Common questions about the protocol
 
 ---
 
