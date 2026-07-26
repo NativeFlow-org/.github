@@ -1,4 +1,3 @@
-```markdown
 # NativeFlow Architecture
 
 ## Overview
@@ -116,7 +115,3 @@ Consolidates the developer tooling and the consumer-facing interface into a sing
 4. The Keeper signs and submits the transaction.
 5. The contract verifies the time constraint, transfers tokens, and emits a `PaymentExecuted` event.
 6. The Keeper indexes the event and resets the `next_charge_date`.
-
-```
-
-```
